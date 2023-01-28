@@ -7,6 +7,7 @@ the data posted here originated in a dataset of camp names, locations, and attri
 URLs: 
 
 https://mapas.albertosaenz.com/mapaCC.html
+
 https://enchanting-dusk-a2b3e9.netlify.app/mapacc
 
 ![image](https://user-images.githubusercontent.com/29576337/184954243-31f090a1-2ebd-4c4f-8a07-2267300cbe3d.png)
